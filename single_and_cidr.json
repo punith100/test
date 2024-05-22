@@ -1,0 +1,39 @@
+{
+    "Single and CIDR Feeds": [
+        {
+            "first_seen": "2017-03-27 01:44:37",
+            "last_seen": "2022-03-11 13:19:08",
+            "ip_address": "80.82.77.139",
+            "category": "FTP",
+            "attacks_count": 1645
+        },
+        {
+            "first_seen": "2017-03-27 09:23:06",
+            "last_seen": "2022-03-12 10:24:44",
+            "ip_address": "139.162.99.0/24",
+            "category": "Postfix",
+            "attacks_count": 1642
+        },
+        {
+            "first_seen": "2017-03-24 08:43:20",
+            "last_seen": "2022-03-11 22:45:42",
+            "ip_address": "80.82.77.33/16",
+            "category": "Postfix",
+            "attacks_count": 1640
+        },
+        {
+            "first_seen": "2017-04-05 07:02:23",
+            "last_seen": "2022-03-12 16:47:39",
+            "ip_address": "184.105.139.68",
+            "category": "RDP Attack",
+            "attacks_count": 1636
+        },
+        {
+            "first_seen": "2017-04-05 06:39:46",
+            "last_seen": "2022-03-12 06:17:54",
+            "ip_address": "184.105.139.67",
+            "category": "RDP Attack",
+            "attacks_count": 1632
+        }
+    ]
+}
