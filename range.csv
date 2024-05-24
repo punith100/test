@@ -1,6 +1,5 @@
 # update_time: 2022-03-12 16:47:39
 #this is an example of range data
-
 first_seen,last_seen,ip_start,ip_end,category,attacks_count
 2017-03-27 01:44:37,2022-03-11 13:19:08,80.82.77.139,80.82.77.255,FTP,1645
 2017-03-27 09:23:06,2022-03-12 10:24:44,139.162.99.243,139.162.99.255,Postfix,1642
